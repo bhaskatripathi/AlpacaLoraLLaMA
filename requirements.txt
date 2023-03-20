@@ -1,0 +1,7 @@
+gradio
+bitsandbytes
+datasets
+loralib
+sentencepiece
+transformers @ c3dc391
+peft @ git+https://github.com/huggingface/peft.git
